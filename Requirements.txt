@@ -1,0 +1,10 @@
+ibm-watsonx-ai
+langchain
+Flan-T5
+HuggingFace
+sentence-transformers
+pandas
+openpyxl
+streamlit
+IBM Watson API key
+os
