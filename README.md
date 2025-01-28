@@ -4,10 +4,10 @@
 This project is designed to generate concise, context-specific summaries of legal documents and identify implicit risks The project also includes real-time monitoring and integration of regulatory updates into contract analysis. An interactive dashboard is provided for legal teams to streamline document review and risk assessment.
 
 ### Features
-Generation of concise summaries for legal documents.
-Identification of hidden risks and obligations through detailed analysis.
-Real-time monitoring and updates of regulatory changes.
-Interactive dashboard for efficient document review and risk assessment.
+Generation of concise summaries for legal documents.  
+Identification of hidden risks and obligations through detailed analysis.  
+Real-time monitoring and updates of regulatory changes.  
+Interactive dashboard for efficient document review and risk assessment.  
 
 ### Installation
 To install the necessary libraries and modules for this project, you can use the provided requirements.txt file. Run the following command:
