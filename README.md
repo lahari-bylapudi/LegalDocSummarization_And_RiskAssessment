@@ -10,7 +10,7 @@ Real-time monitoring and updates of regulatory changes.
 Interactive dashboard for efficient document review and risk assessment.  
 
 ### Installation
-To install the necessary libraries and modules for this project, you can use the provided requirements.txt file. Run the following command:
+To install the necessary libraries and modules for this project, you can use the provided requirements.txt file. Run the following command:  
 pip install -r requirements.txt
 
 ### Usage
